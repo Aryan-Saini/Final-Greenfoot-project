@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Fish
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Fish\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ act\ is\ the\ method\ that\ is\r\n\ run\ during\ every\ act\ cycle\r\n\ of\ the\ scenario\r\n\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ checkKeyPress()
+comment2.text=\r\n\ checkKeyPress\ checks\ if\ the\ wasd\ key's\ has\ been\ clicked\ \ \r\n\ if\ clicked\ it\ will\ turn\ left,right,\ go\ forward\ or\ go\ back\r\n\ \r\n\ @param\ none\ there\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ goLeft()
+comment3.text=\r\n\ goLeft\ turns\ the\ fish\ left\ 5\ pixels\r\n\ \r\n\ @param\ none\ There\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ goRight()
+comment4.text=\r\n\ goRight\ turns\ the\ fish\ right\ -5\ pixels\r\n\ \r\n\ @param\ none\ There\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ goForward()
+comment5.text=\r\n\ goForward\ moves\ the\ fish\ forward\ -5\ pixels\r\n\ \r\n\ @param\ none\ There\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment6.params=
+comment6.target=void\ goBack()
+comment6.text=\r\n\ goBack\ moves\ the\ fish\ back\ 5\ pixels\r\n\ \r\n\ @param\ none\ There\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment7.params=
+comment7.target=void\ checkIfAtEdge()
+comment7.text=\r\n\ checkIfAtEdge\ checks\ if\ the\ shark\ is\ at\ edge\ and\ it\ puts\ the\ shark\ on\ the\ opposite\ side\ \r\n\ \r\n\ @param\ none\ There\ are\ no\ parameters\ \r\n\ @return\ nothing\ is\ returned\r\n
+numComments=8

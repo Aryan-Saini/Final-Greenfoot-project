@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StartMenu
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StartMenu\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=StartMenu()
+comment1.text=\r\n\ StartMenu\ is\ the\ constructor\ for\ StartMenu\ type\ objects\r\n\ \r\n\ @param\ none\ There\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ iniatlizeObjects()
+comment2.text=\r\n\ inializeObjects\ iniatlize\ objects\ in\ the\ world\ at\ the\ start\ of\ the\ game\r\n\ \r\n\ @param\ none\ There\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ initalizeTutorialItems()
+comment3.text=\r\n\ initalizeTutorialItems()\ iniatlize\ objects\ in\ the\ world\ when\ the\ tutorial\ button\ is\ clicked\r\n\ \r\n\ @param\ none\ There\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=4

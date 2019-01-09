@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ContinueWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ContinueWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=mainWorld\ life
+comment1.target=ContinueWorld(AquariumWorld,\ int)
+comment1.text=\r\n\ ContinueWorld\ is\ the\ constructor\ for\ ContinueWorld\ type\ objects\r\n\ \r\n\ @param\ mainWorld\ is\ a\ AquariumWorld\ data\ type\ (thats\ referenced)\ to\ the\ old\ aquarium\ world\r\n\ @param\ life\ is\ a\ int\ data\ type\ (thats\ referenced)\ to\ how\ much\ life\ the\ shark\ has\ \ \r\n\ @return\ nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ is\ the\ method\ that\ is\r\n\ run\ during\ every\ act\ cycle\r\n\ of\ the\ scenario\r\n\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ checkGame()
+comment4.params=
+comment4.target=void\ checkKeyPress()
+comment4.text=\r\n\ checkKeyPress\ checks\ if\ the\ space\ key\ has\ been\ clicked\ \ \r\n\ if\ clicked\ it\ will\ start\ the\ game\ and\ get\ rid\ of\ the\ ball\r\n\ \r\n\ @param\ none\ there\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ checkForLife()
+comment5.text=\r\n\ checkForLife\ checks\ how\ much\ life\ you\ have\ and\ the\ prints\ that\ in\ text\ for\ the\ player\ to\ see\r\n\ also\ stops\ the\ game\ if\ life\ is\ at\ 0\r\n\ \r\n\ @param\ none\ there\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=6
